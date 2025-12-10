@@ -1,6 +1,6 @@
 # Polynomial Regression: When Simple Lines Aren't Enough
 
-**Name:** Mehar Dil  
+**Name:** Mehr Dil  
 **Course:** Machine Learning
 **Student ID:** 24087959
 **Repository:** https://github.com/MEHERDIL/polynomial_regression.git
